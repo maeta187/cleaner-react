@@ -6,7 +6,9 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "bunx @biomejs/biome lint --write ./src",
+    "format": "bunx @biomejs/biome format --write ./src",
+    "check": "bunx @biomejs/biome check --write ./src"
   },
   "dependencies": {
     "react": "^18",
