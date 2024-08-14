@@ -1,10 +1,10 @@
 import type { NextPage } from "next";
-import { AntiUseState } from "./Anti-UseState";
+import { ImprovementUseState } from "./Improvement-UseState";
 
 const Page: NextPage = () => {
 	return (
 		<div>
-			<AntiUseState />
+			<ImprovementUseState />
 		</div>
 	);
 };
