@@ -1,6 +1,6 @@
 'use client'
 
-import { useState, useReducer } from 'react'
+import { useReducer, useState } from 'react'
 
 /**
  * setState にupdater functionを渡すことで＋3される

@@ -1,5 +1,8 @@
 import { NextPage } from 'next'
-import { ImprovementDependentArray , AnotherImprovementDependentArray} from './ImprovementDependentArray'
+import {
+  AnotherImprovementDependentArray,
+  ImprovementDependentArray
+} from './ImprovementDependentArray'
 
 const Page: NextPage = () => {
   return (
