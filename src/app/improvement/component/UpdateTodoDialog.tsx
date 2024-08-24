@@ -1,4 +1,4 @@
-import { Dialog } from './Dialog'
+import { Dialog } from '@/component/Dialog'
 
 interface DialogProps {
   open: boolean
