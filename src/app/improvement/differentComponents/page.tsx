@@ -1,7 +1,7 @@
 import { NextPage } from 'next'
 import {
-  PitfallComponents,
-  ImprovementDifferentComponentsTodo
+  ImprovementDifferentComponentsTodo,
+  PitfallComponents
 } from './ImprovementDifferentComponents'
 
 const Page: NextPage = () => {

@@ -1,7 +1,7 @@
 'use client'
 
-import { useState } from 'react'
 import { Dialog } from '@/component/Dialog'
+import { useState } from 'react'
 
 /**
  * コンポーネントの中にコンポーネントを定義している

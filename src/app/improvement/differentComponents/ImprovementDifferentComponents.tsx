@@ -1,7 +1,7 @@
 'use client'
 
-import { useState } from 'react'
 import { Dialog } from '@/component/Dialog'
+import { useState } from 'react'
 
 type Todo = {
   id: number

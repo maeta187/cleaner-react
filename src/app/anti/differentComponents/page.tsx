@@ -1,7 +1,7 @@
 import { NextPage } from 'next'
 import {
-  PitfallComponents,
-  AntiDifferentComponentsTodo
+  AntiDifferentComponentsTodo,
+  PitfallComponents
 } from './AntiDifferentComponents'
 
 const Page: NextPage = () => {
